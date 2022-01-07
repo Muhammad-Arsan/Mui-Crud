@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "green border",
+      "details": "this card should be green",
+      "category": "money",
+      "id": 4
+    },
+    {
+      "title": "green border",
+      "details": "this card should be green",
+      "category": "money",
+      "id": 5
+    },
+    {
+      "title": "another",
+      "details": "check history",
+      "category": "reminder",
+      "id": 6
+    },
+    {
+      "title": "check hisotry",
+      "details": "check hisotrycheck hisotry",
+      "category": "todos",
+      "id": 7
+    },
+    {
+      "title": "ffff",
+      "details": "edfefefefe",
+      "category": "work",
+      "id": 8
+    }
+  ]
+}
